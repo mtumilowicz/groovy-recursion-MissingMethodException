@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/groovy-recursion-MissingMethodException.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy-recursion-MissingMethodException)
+
 # groovy-recursion-MissingMethodException
 How to avoid MissingMethodException during invoking recursive closures.
 
